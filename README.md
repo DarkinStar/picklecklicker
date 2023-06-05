@@ -1,5 +1,5 @@
-1.  create virtual environment: `virtualenv venv --python=3.8`
-2. activate virtual env: `source venv/bin/activate`
+1.  create virtual environment: `py -m venv venv`
+2. activate virtual env: `./venv/Scripts/activate`
 3. install requirements: `pip install -r requirements.txt`
 4. make migrations :
 ```
